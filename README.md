@@ -5,4 +5,5 @@ Class project in sixth day in the [iOS 9 course](https://itunes.apple.com/us/cou
 
 ## Getting Started
 
-Open this project in Xcode and run it
+* Open the project in Xcode   
+* Run it
